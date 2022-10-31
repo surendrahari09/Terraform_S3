@@ -1,8 +1,8 @@
 variable "aws_access_key" {
-default = " AKIA5FIOCDDBSVPXRMXJ "
+default = " access-key "
 }
 variable "aws_secret_key" {
-default = " HgMkih8tqOJj2Cdp2fvIqQKNdhEC2QwPGXg9wYcJ "
+default = " secret-key "
  }
 variable "region" {
     default = "ap-south-1"
